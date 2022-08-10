@@ -1,5 +1,6 @@
 - Hi, I’m @lehvu95
-- I’m currently learning Discord.js and various Javascript libraries
+- I work mostly with React.js as a Front End Developer
+- Right now, I am learning GoLang to improve my Back End skills!
 - How to reach me https://www.linkedin.com/in/lvu95/
 - Code Sandbox: https://codesandbox.io/u/lehvu95
 
